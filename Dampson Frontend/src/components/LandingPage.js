@@ -529,7 +529,7 @@ const LandingPage = () => {
           <a className="footer__link twitter-link" target="_blank" href="">
             Dampson HMS
           </a>{" "}
-          2024. All Rights Reserved. Built by Code Mavericks
+          2024. All Rights Reserved. Built by Code Maverick
         </p>
       </footer>
 
